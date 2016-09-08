@@ -3,3 +3,5 @@ version callback.
 git tracks changes.
 Creating a new branch is quick & simple.
 new line in master branch.
+new line in dev branch merge from new.
+no fast forward test.
