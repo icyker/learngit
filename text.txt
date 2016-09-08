@@ -5,3 +5,7 @@ Creating a new branch is quick & simple.
 new line in master branch.
 new line in dev branch merge from new.
 no fast forward test.issue-101 bug fixed.
+no fast forward test.
+stash test in dev branch.
+stach test end.
+
